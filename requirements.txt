@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.36.0
+accelerate
+datasets
+peft
+trl
+scipy
+nltk
+fastapi
+uvicorn
+unsloth
+jinja2
+python-multipart
